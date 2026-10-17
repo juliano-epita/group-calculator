@@ -1,4 +1,5 @@
-CONTRIBUTORS = ["Steven EL HAYEK" , 'Juliano Jawad Gharzeddine']
+CONTRIBUTORS = ["Rachid Rahme" , 'Juliano Jawad Gharzeddine' , "Steven EL HAYEK" ,]
+git add calculator.py
 
 def add(a, b):
     return a+b 
@@ -14,7 +15,7 @@ def multiply(a, b):
 
 
 def divide(a, b):
-    pass
+    return a / b
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-CONTRIBUTORS = []
+CONTRIBUTORS = ["Rachid Rahme"]
 
 
 def add(a, b):
@@ -14,7 +14,7 @@ def multiply(a, b):
 
 
 def divide(a, b):
-    pass
+    return a / b
 
 
 if __name__ == "__main__":

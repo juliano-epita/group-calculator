@@ -1,5 +1,4 @@
-CONTRIBUTORS = ['Juliano Jawad Gharzeddine']
-
+CONTRIBUTORS = ["Steven EL HAYEK" , 'Juliano Jawad Gharzeddine']
 
 def add(a, b):
     return a+b 
@@ -10,7 +9,8 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    pass
+    return a * b
+
 
 
 def divide(a, b):

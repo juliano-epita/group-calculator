@@ -15,7 +15,6 @@ def multiply(a, b):
 
 
 def divide(a, b):
-    
     pass
 
 
